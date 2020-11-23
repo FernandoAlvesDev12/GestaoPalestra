@@ -1,0 +1,6 @@
+C:\Subbversion\Unip\2SEM  - C#\ADS2_PIM\GestaoPalestra\bin\Debug\GestaoPalestra.exe.config
+C:\Subbversion\Unip\2SEM  - C#\ADS2_PIM\GestaoPalestra\bin\Debug\GestaoPalestra.exe
+C:\Subbversion\Unip\2SEM  - C#\ADS2_PIM\GestaoPalestra\bin\Debug\GestaoPalestra.pdb
+C:\Subbversion\Unip\2SEM  - C#\ADS2_PIM\GestaoPalestra\obj\Debug\GestaoPalestra.csprojAssemblyReference.cache
+C:\Subbversion\Unip\2SEM  - C#\ADS2_PIM\GestaoPalestra\obj\Debug\GestaoPalestra.exe
+C:\Subbversion\Unip\2SEM  - C#\ADS2_PIM\GestaoPalestra\obj\Debug\GestaoPalestra.pdb
